@@ -1,0 +1,9 @@
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\bin\Debug\AppDataAccess.dll
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\bin\Debug\AppDataAccess.pdb
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\bin\Debug\AppModel.dll
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\bin\Debug\AppModel.pdb
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\obj\Debug\AppDataAccess.csprojAssemblyReference.cache
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\obj\Debug\AppDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\obj\Debug\AppDataAccess.csproj.CopyComplete
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\obj\Debug\AppDataAccess.dll
+C:\Users\bombo\source\repos\shitAPp\AppDataAccess\obj\Debug\AppDataAccess.pdb

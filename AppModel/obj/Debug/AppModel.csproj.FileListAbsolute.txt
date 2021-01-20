@@ -1,0 +1,6 @@
+C:\Users\bombo\source\repos\shitAPp\AppModel\bin\Debug\AppModel.dll
+C:\Users\bombo\source\repos\shitAPp\AppModel\bin\Debug\AppModel.pdb
+C:\Users\bombo\source\repos\shitAPp\AppModel\obj\Debug\AppModel.csprojAssemblyReference.cache
+C:\Users\bombo\source\repos\shitAPp\AppModel\obj\Debug\AppModel.csproj.CoreCompileInputs.cache
+C:\Users\bombo\source\repos\shitAPp\AppModel\obj\Debug\AppModel.dll
+C:\Users\bombo\source\repos\shitAPp\AppModel\obj\Debug\AppModel.pdb
